@@ -21,7 +21,7 @@ Maintainance - Proving ongoing support,updates and enhancements to the software 
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-waterfall models have a sequencial approch where the process has to follow specific stepps with distinct phases more suitable to when one person is working on the program at a time while agile uis centred round flexibility and collaboraton it is more suitable at responding to change, more suitable when a group of people are working on one program at a time
+waterfall models have a sequencial approach where the process has to follow specific stepps with distinct phases more suitable to when one person is working on the program at a time while agile uis centred round flexibility and collaboraton it is more suitable at responding to change, more suitable when a group of people are working on one program at a time
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
